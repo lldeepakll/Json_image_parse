@@ -26,12 +26,12 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 <br>
 Very Important, For http connection you should add below code in your gradle file<br>
 <code>
-android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
-    useLibrary 'org.apache.http.legacy'
-    .
-    .
-    .
+android {<br>
+    compileSdkVersion 23<br>
+    buildToolsVersion "23.0.1"<br>
+    useLibrary 'org.apache.http.legacy'<br>
+    .<br>
+    .<br>
+    .<br>
 }
 </code>
