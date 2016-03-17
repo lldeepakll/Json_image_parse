@@ -2,7 +2,7 @@
 In this project, <br>How to parse Image in listView from json ?<br>
 
 For Api, i am using Free Api provide
-< br> http://www.mocky.io/<br>
+<br> http://www.mocky.io/<br>
 
 with refrence of above website, i create below REST api<br>
 
@@ -19,7 +19,5 @@ https://github.com/square/picasso
 
 In your gradle you should add, below code
 <code>
-
 compile 'com.squareup.picasso:picasso:2.5.2'
-
 </code>
