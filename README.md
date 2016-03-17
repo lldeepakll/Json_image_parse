@@ -21,5 +21,5 @@ In your gradle you should add, below code<br>
 <code>
 compile 'com.squareup.picasso:picasso:2.5.2'
 </code>
-<br>
+<br><br><br>
 ![device-2016-03-17-190300](https://cloud.githubusercontent.com/assets/17099115/13847677/3ffe263a-ec74-11e5-9390-3413075fe33d.png)
