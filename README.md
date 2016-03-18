@@ -26,8 +26,6 @@ compile 'com.squareup.picasso:picasso:2.5.2'
 <br>
 Very Important, For http connection you should add below code in your gradle file<br>
 <code>
-
     useLibrary 'org.apache.http.legacy'
-
 </code>
 
